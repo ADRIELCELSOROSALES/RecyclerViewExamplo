@@ -41,6 +41,3 @@ Si deseas contribuir a este proyecto, por favor considera lo siguiente:
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## Agradecimientos
-
-- Agradecimientos especiales a todos los
